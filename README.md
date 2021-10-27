@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning ..Redux
-### 👯 I’m looking to collaborate on ... React.JS projects
+### 🌱 I’m currently learning => Redux
+### 👯 I’m looking to collaborate on => React.JS projects
+### ⚡ Favourite quote => small components milate jao large webpage banate jao  
 <!--
 **kartikeyraut/kartikeyraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
