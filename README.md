@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🌱 I’m currently learning ..Redux
+### 👯 I’m looking to collaborate on ... React.JS projects
 <!--
 **kartikeyraut/kartikeyraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
